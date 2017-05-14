@@ -1,0 +1,56 @@
+body{
+  
+  background-image: url("../imagen/fondo5.jpg");
+}
+h1{
+  margin-left: 10 px;
+  color:darkblue;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2{
+    margin-left: 10px;
+    border-left-width: 10px;
+    border-left-color: darkred;
+    border-left-style: solid;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.au{
+  color: darkred;
+  font-size: 25px;
+
+}
+
+.area_trabajo{
+  width: 80%;
+  margin: 0px auto;
+  background-color: #96969e;
+  color: black;
+  overflow: hidden;
+}
+.cuento{
+  float: left;
+}
+.reseña{
+    width: 60%;
+    float: left;
+}
+
+.autor{
+  width: 40%;
+  float: right;
+}
+p{
+  margin: 5%;
+  text-align: justify;
+}
+
+.imautor{
+  width: 70%;
+  margin: 10%;
+}
+.imcuento{
+  width: 70%;
+}
